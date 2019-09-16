@@ -70,7 +70,7 @@ public class OldLady {
 		System.out.println("There was an old lady who swallowed a cat,");
 	}
 	public static void Imagineswallowcat() {
-		System.out.println("Imagine that to swallow a cat");
+		System.out.println("Imagine that to swallow a cat.");
 	}
 	public static void Catchbird() {
 		System.out.println("She swallowed the cat to catch the bird,");
