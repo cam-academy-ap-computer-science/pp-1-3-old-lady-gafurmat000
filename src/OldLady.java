@@ -1,4 +1,18 @@
-
+/***
+ * Grading Comments:  Good stuff - Definitely used methods   
+ *  to get rid of duplication.  
+ *  Compiles/runs 15/15
+ *  Correct output 6/6
+ *  Consistency:   2/2 - overall, very good, but:
+ * Try to name your methods using the same convention of capitalization.
+ * SwallowedFly() if 'WriggledJiggled'.  
+ * Make sure indentation is the same (last } is off).  
+ *  Economy:  1/2   You definitely got the idea - but you could go further
+ *   in a couple directions in reducing duplication - you could 'nest' the methods 
+ *   by having one method call another.  eg. you could have 
+ *     System.out.print("There was an old lady who swallowed a");
+ *   as a method that each of your other methods calls. 
+ */  
 public class OldLady {
 
 	public static void main(String[] args) {
